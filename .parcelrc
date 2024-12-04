@@ -1,0 +1,10 @@
+{
+  "extends": ["@parcel/config-default"]
+  // // NOTE: Uncomment for node-excluding version...
+  // "runtimes": [
+  //   "@parcel/runtime-js",
+  //   "./runtime-browser-hmr.cjs", // the default injects hmr into node
+  //   "@parcel/runtime-react-refresh",
+  //   "@parcel/runtime-service-worker"
+  // ]
+}
